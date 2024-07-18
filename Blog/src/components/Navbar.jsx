@@ -21,7 +21,7 @@ const Navbar = () => {
             BLOG
           </Typography>
           <Button color="inherit"><Link to={"/h"}>Home</Link></Button>
-          <Button color="inherit"><Link to={"/f"}>Add Blog</Link>
+          <Button color="inherit"><Link to={"/f"}>Blog Form</Link>
           </Button>
         </Toolbar>
       </AppBar>
